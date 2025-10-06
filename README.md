@@ -4,12 +4,14 @@ cd breast-cancer-ai
 
 
 
-# শুধুমাত্র একবার চালান: uv ইনস্টল করার জন্য
+
 pip install uv
 
-# এখন uv sync চালান
 uv sync
 
+
+npm install -g pnpm    (After download nodejs)
+npm install -g pnpm
 
 
 cd tailwindcss
